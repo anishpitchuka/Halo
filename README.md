@@ -1,11 +1,9 @@
 # 🌤️ Weather App
-
-A beautiful, minimalistic weather application built with React and Vite. Search for any city worldwide and get real-time weather data with a sleek glassmorphism design.
+Just a Weather App
 
 ## ✨ Features
 
 - **🌍 Global Weather Data** - Search for weather in any city worldwide
-- **🎨 Modern UI** - Beautiful glassmorphism design with smooth animations
 - **📱 Responsive** - Works perfectly on desktop, tablet, and mobile
 - **⚡ Fast & Lightweight** - Built with Vite for optimal performance
 - **🔍 Easy Search** - Simple search interface with real-time results
